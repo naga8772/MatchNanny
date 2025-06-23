@@ -16,7 +16,7 @@ const Header = ({
           <div>
             <h1 className="text-3xl font-bold text-gray-800">MatchNanny</h1>
             <p className="text-gray-600 font-bold text-blue-800">Brookhaven Racquet Club</p>
-            <p className="text-sm text-gray-500">Professional Adult Supervision for Tennis Teams</p>
+            <p className="text-sm text-gray-500">Professional Adult Supervision for Tennis Teams - Now Live! 🚀</p>
           </div>
         </div>
         <div className="flex items-center space-x-4">
